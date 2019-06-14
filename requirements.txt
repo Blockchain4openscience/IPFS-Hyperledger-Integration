@@ -1,0 +1,11 @@
+base58==1.0.3
+certifi==2019.3.9
+chardet==3.0.4
+idna==2.8
+ipfshttpclient==0.4.12
+multiaddr==0.0.8
+netaddr==0.7.19
+requests==2.22.0
+six==1.12.0
+urllib3==1.25.3
+varint==1.0.2

@@ -2,6 +2,7 @@
 
 This is a Python script which adds a given Research Object to IPFS and stores the hash into Hyperledger based blockchain using composer-rest-server and ipfshttpclient (or py-ipfs-api : https://github.com/ipfs/py-ipfs-api). 
 ## Download
+You need to install IPFS, Follow instruction here to do so : https://docs.ipfs.io/guides/guides/install/
 
 Clone this git repo on your local computer and enter the working directory 
 
